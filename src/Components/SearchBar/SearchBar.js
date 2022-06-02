@@ -31,7 +31,7 @@ function SearchBar() {
                 <p>Economy Walta, Buna Buna</p>
             </div>
             <div className="SearchBar-submit">
-                <a>Shop</a>
+                <a href="https://www.amazon.com/" target="blank" >Shop</a>
             </div>
         </div>
     )

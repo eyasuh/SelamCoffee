@@ -1,6 +1,7 @@
 import './App.css';
 import ProductList from '../ProductList/ProductList';
 import SearchBar from '../SearchBar/SearchBar';
+import Footer from '../Footer/Footer';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <h1>Lucy Coffee</h1>
       <SearchBar />
       <ProductList />
+      <Footer />
     </div>
   );
 }
